@@ -87,7 +87,6 @@ export default {
     }
 }
 </script>
-
 <style scoped>
     .list-group:nth-last-child(3){
         margin-bottom: 25px;
